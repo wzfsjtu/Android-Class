@@ -1,0 +1,10 @@
+Homework-Chapter-3功能：
+
+MainActivity中设置Ex1、Ex2、Ex3共3个button，按下后可分别跳转到Ex1Activity、Ex2Activity、Ex3Activity。
+
+Ex1Activity实现自动、手动控制lottie动画播放
+Ex2Activity实现方块颜色、大小的循环渐变动画
+Ex3Activity实现可滑动界面，并用lottie实现load效果；可滑动界面中，点击下滑列表的text会弹出提示窗口，提示字样为：
+           "Homework-Chapter-3： click [position] in [Pager_title]",
+           position：所点击text在下滑列表对应位置；
+           Pager_title：当前的Pager_title

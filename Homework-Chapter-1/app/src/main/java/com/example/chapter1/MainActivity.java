@@ -76,7 +76,5 @@ public class MainActivity extends AppCompatActivity {
             }
             searchAdapter.notifyItems(items);
         }
-
-
     }
 }
